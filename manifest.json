@@ -1,0 +1,12 @@
+{
+  "name": "Yandex Slovari Context Menu",
+  "author": "Toxoed",
+  "description": "En-Ru translation using slovari.yandex.ru",
+  "version": "0.1",
+  "permissions": ["contextMenus","tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2,
+  "icons": {"16":"favicon.png"}
+}
